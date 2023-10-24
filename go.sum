@@ -60,6 +60,8 @@ github.com/khulnasoft-labs/gologger v1.1.11 h1:8kW1kaPdEMcIcnnYGg7B5za5U3NMMQzO4
 github.com/khulnasoft-labs/gologger v1.1.11/go.mod h1:uf59FwoW8zCJryikNSc5I0gmkNUqSkl4tRSCjpV6uBk=
 github.com/khulnasoft-labs/roundrobin v0.0.6 h1:8pZ89LmPdwoW6kHReMTSZvt3RCHOmVfUoxqN/j85drw=
 github.com/khulnasoft-labs/roundrobin v0.0.6/go.mod h1:UOK2o40qNDIIthsgcBgpOFXry8UvbSnxauxB1m/Yphc=
+github.com/khulnasoft-labs/roundrobin v0.0.7 h1:P9P8IUHpqX97CafgQm8kPOupSbWkL2TfDBeJgkJ+V7U=
+github.com/khulnasoft-labs/roundrobin v0.0.7/go.mod h1:UOK2o40qNDIIthsgcBgpOFXry8UvbSnxauxB1m/Yphc=
 github.com/khulnasoft-labs/utils v0.0.45 h1:27tqzQqwMWN4mVw18oexYzejfNW8/ApENWHFwawCNmY=
 github.com/khulnasoft-labs/utils v0.0.45/go.mod h1:J7QDXALnOeITXeNZxy5sLwgONEYnuP7873DuLXtSVxo=
 github.com/klauspost/compress v1.4.1/go.mod h1:RyIbtBH6LamlWaDj8nUwkbUhJ87Yi3uG0guNDohfE1A=
