@@ -6,7 +6,7 @@ require (
 	github.com/khulnasoft-labs/goflags v0.1.11
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/roundrobin v0.0.6
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-labs/utils v0.0.47
 	github.com/miekg/dns v1.1.55
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rs/xid v1.5.0
