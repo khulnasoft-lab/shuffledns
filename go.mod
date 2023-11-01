@@ -3,7 +3,7 @@ module github.com/khulnasoft-labs/shuffledns
 go 1.20
 
 require (
-	github.com/khulnasoft-labs/goflags v0.1.11
+	github.com/khulnasoft-labs/goflags v0.1.16
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/roundrobin v0.0.6
 	github.com/khulnasoft-labs/utils v0.0.45
