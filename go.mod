@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/khulnasoft-labs/goflags v0.1.11
-	github.com/khulnasoft-labs/gologger v1.1.11
+	github.com/khulnasoft-labs/gologger v1.1.13
 	github.com/khulnasoft-labs/roundrobin v0.0.6
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/miekg/dns v1.1.55
